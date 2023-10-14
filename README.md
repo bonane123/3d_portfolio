@@ -14,3 +14,4 @@ this is the prototype of original portfolio.
 ## Contact section
 
 The design of this contact section will be made later on.
+We will mix the color to make beautiful contact section
