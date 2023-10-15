@@ -10,6 +10,7 @@ Currently, two official plugins are available:
 # 3D Portfolio
 
 this is the prototype of original portfolio.
+The implementation of 3D Portfolio will be used later on.
 
 ## Contact section
 
