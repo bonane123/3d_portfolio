@@ -11,6 +11,7 @@ Currently, two official plugins are available:
 
 this is the prototype of original portfolio.
 The implementation of 3D Portfolio will be used later on.
+I'm planning to change the portfolio image. 
 
 ## Contact section
 
