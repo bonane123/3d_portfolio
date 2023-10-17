@@ -13,7 +13,15 @@ this is the prototype of original portfolio.
 The implementation of 3D Portfolio will be used later on.
 I'm planning to change the portfolio image. 
 
+
 ## Contact section
 
 The design of this contact section will be made later on.
 We will mix the color to make beautiful contact section
+
+## Project section
+
+1. TM MONEY TRANSFER 
+2. NET-12
+3. WORLD OASIS
+4. YESIRWANDA
