@@ -46,7 +46,7 @@ function App() {
       <div className='w-5/6 mx-auto mt-32'>
         <Projects />
       </div>
-      <div className='bg-amber-600 mx-auto mt-32'>
+      <div className=' mx-auto mt-32'>
         <Contacts />
       </div>
     </div>
